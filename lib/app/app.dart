@@ -4,13 +4,13 @@ import 'package:flutter/services.dart';
 import '../core/palette.dart';
 import '../screens/loading_screen.dart';
 
-class ToverApp extends StatelessWidget {
-  const ToverApp({super.key});
+class AmayZoneApp extends StatelessWidget {
+  const AmayZoneApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Tover Bilt',
+      title: 'Amay Zone',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         brightness: Brightness.dark,

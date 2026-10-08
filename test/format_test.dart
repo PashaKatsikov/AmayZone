@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:tover_bilt/core/format.dart';
+import 'package:amay_zone/core/format.dart';
 
 void main() {
   test('groupDigits inserts separators', () {

@@ -8,6 +8,6 @@ void main() {
   // Status and navigation bars stay hidden everywhere; a swipe from the edge
   // shows them briefly.
   SystemChrome.setEnabledSystemUIMode(SystemUiMode.immersiveSticky);
-  runApp(const ToverApp());
+  runApp(const AmayZoneApp());
 }
 

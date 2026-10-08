@@ -1,6 +1,6 @@
-# tover_bilt
+# amay_zone
 
-Tover Bilt - social slot game
+Amay Zone - social slot game
 
 ## Getting Started
 
